@@ -1,7 +1,7 @@
-const data = {
+export const data = {
   account: {
     id: "avsHJEfL-S",
-    loggedIn: true,
+    loggedIn: false,
     first_name: "Adrian",
     last_name: "McCarty",
     profile_URL: "/adrian-mccarty",

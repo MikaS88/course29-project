@@ -1,4 +1,4 @@
-const users = [
+export const users = [
   {
     id: "OCsHJEfL-S",
     online: true,
